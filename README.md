@@ -8,5 +8,4 @@ Reference:
 - Ainize: https://ainize.ai/teachable-nlp
 
 License:
-- https://github.com/SKT-AI/KoGPT2
-- CC BY-NC-SA 4.0
+- CC wise_saying_bot by i-enable, [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/#) (‘[Kogpt2](https://github.com/SKT-AI/KoGPT2) by SKT-AI, [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/#)’ 이용해 창작)
